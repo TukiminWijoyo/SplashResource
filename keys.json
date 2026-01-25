@@ -1,1 +1,10 @@
-Yae~1Day~37PlV4UCDmj1NfQbxJlSXUkSLpqGW6
+return {
+  ["Yae~1Day~37PlV4UCDmj1NfQbxJlSXUkSLpqGW6"] = {
+    expire = "2026-12-31",
+    bind = true
+  },
+  ["FREE-TRIAL-001"] = {
+    expire = "2026-02-01",
+    bind = false
+  }
+}
