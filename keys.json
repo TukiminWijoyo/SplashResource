@@ -1,7 +1,43 @@
 return {
-  ["Yae~1Day~Gf5W7hbvHudoLBhzvE222MetfJCWqx"] = {
+  [""] = {
     expire = "2026-01-30",
-  device = "YaenHf04tqJ0cJBNZf0E28mf0sFYeZ"
+  device = ""
+  },
+  ["12345"] = {
+    device = "YaenHf04tqJ0cJBNZf0E28mf0sFYeZ",
+    expire = "2026-02-01"
+  },
+    ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+  ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+  ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+    ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+    ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+  ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+    ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  },
+    ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
   },
   ["FREE-TRIAL-001"] = {
     device = "",
