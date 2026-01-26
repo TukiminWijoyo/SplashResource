@@ -1,6 +1,6 @@
 return {
   ["ABC123"] = {
-    expire = "2025-11-30",
+    expire = "2026-11-30",
     device = "YaewufUbaRqrxGzigo2EdBSDWW7vDC"
   },
   ["XYZ999"] = {
