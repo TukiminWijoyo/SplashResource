@@ -7,8 +7,8 @@ return {
     expire = "2026-02-01",
     device = "YaenHf04tqJ0cJBNZf0E28mf0sFYeZ"
   },
-    ["YaenHf04tqJ0cJBNZ"] = {
-    device = "Yae1KNkoZNIb1EUVR7DhSsjMBiHYyZ",
+    ["YaenHf040cJBNZ"] = {
+    device = "YaewufUbaRqrxGzigo2EdBSDWW7vDC",
     expire = "2026-02-01"
   },
   ["FREE-TRIAL-001"] = {
