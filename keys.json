@@ -4,8 +4,8 @@ return {
   device = ""
   },
   ["12345"] = {
-    device = "YaenHf04tqJ0cJBNZf0E28mf0sFYeZ",
-    expire = "2026-02-01"
+    expire = "2026-02-01",
+    device = "YaenHf04tqJ0cJBNZf0E28mf0sFYeZ"
   },
     ["FREE-TRIAL-001"] = {
     device = "",
