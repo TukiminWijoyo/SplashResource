@@ -1,3 +1,10 @@
-Yae~1Day~LR09rEVnI7u6TSn89WL0r17nmoG5wR|Yaekb30GYmN6hre1LrH16NHtyenmPT
-KEY-DEF-222|
-KEY-GHI-333|
+return {
+  ["Yae~1Day~LR09rEVnI7u6TSn89WL0r17"] = {
+    device = "Yae6BYmy8pyHajToyCAlOgSOAR4iqy",
+    expire = "2026-01-25"
+  },
+  ["FREE-TRIAL-001"] = {
+    device = "",
+    expire = "2026-02-01"
+  }
+}
