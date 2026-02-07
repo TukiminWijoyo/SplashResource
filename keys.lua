@@ -1,11 +1,15 @@
 return {
-  [""] = {
-    expire = "2026-11-30",
+  ["YaewufUOPbpUTYrxGz"] = {
+    expire = "2026-02-13",
     device = ""
   },
-  ["YaewufUbaRqrxGz"] = {
-    expire = "2033-03-03",
-    device = "YaewufUbaRqrxGzigo2EdBSDWW7vDC"
+    ["YaewufUT629xGz"] = {
+    expire = "2026-02-13",
+    device = ""
+  },
+  ["YaewufUBopUTYrxGz"] = {
+    expire = "2033-02-13",
+    device = ""
   },
   ["YaewufUbaRqxzGz"] = {
     expire = "9999-09-09",
