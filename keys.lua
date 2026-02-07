@@ -8,7 +8,7 @@ return {
     device = ""
   },
   ["YaewufUBopUTYrxGz"] = {
-    expire = "2033-02-13",
+    expire = "2026-02-13",
     device = ""
   },
   ["YaewufUbaRqxzGz"] = {
