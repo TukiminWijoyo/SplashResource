@@ -3,9 +3,9 @@ return {
     expire = "2026-02-13",
     device = "YaebEqPWmpGIvTnMFgBb216fdA0i8K"
   },
-    ["YaewufUT629xGz"] = {
-    expire = "2026-02-13",
-    device = ""
+    ["YaezufUT629xGz"] = {
+    expire = "9999-09-09",
+    device = "YaeQq67b5hWWcDjxB7kQ3jzsq5LGsb"
   },
   ["YaewufUBopUTYrxGz"] = {
     expire = "2026-02-13",
@@ -15,8 +15,8 @@ return {
     expire = "2026-02-11",
     device = "YaeDG29tjSISKjExznRHiregx3Ynfc"
   },
-  ["YaebaRqxzGz"] = {
-    expire = "9999-09-09",
-    device = "YaeQq67b5hWWcDjxB7kQ3jzsq5LGsb"
+  ["YaebaRxzGz"] = {
+    expire = "2026-09-09",
+    device = ""
   }
 }
