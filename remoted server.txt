@@ -1,0 +1,4 @@
+status=enabled
+title=サーバーが閉じられました
+message=詳細については、開発者にお問い合わせください。
+link=https://t.me/Rymurin
